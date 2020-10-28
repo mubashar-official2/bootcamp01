@@ -1,0 +1,11 @@
+##############	01 node js ##########
+
+1.	npm 
+	it nod.js package manager
+2.	npm install -g surge
+	-g is gobally install  everywhere install 
+	it will for all reposirty.
+3.	surge token
+	it will return token ask useremail and password
+	""ace45ff162823904cadb2c0a7b2ab202""
+4.
