@@ -28,7 +28,7 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Installing surge
-        run: npm install --golabl surge
+        run: npm install --global surge
       - name: Deploying using surge
         run: surge ./http://mubasharbootcaamp01.surge.sh/ --token ${{secrets.SUGER_TOKEN}}
         
